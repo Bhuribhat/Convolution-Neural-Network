@@ -57,4 +57,4 @@
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/bba6dea79b38e47a37dd29bb756051f3"><img src="./images/Certificate.png" height="400"></a># Convolution-Neural-Network
+  <a href="https://coursera.org/share/bba6dea79b38e47a37dd29bb756051f3"><img src="./images/Certificate.png" height="400"></a>
